@@ -1,0 +1,52 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v6.0": {},
+    ".NETFramework,Version=v6.0/win7-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v6.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\elfreita\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\elfreita\\OneDrive - Capgemini\\Desktop\\TesteC#\\Questao1\\Questao1.csproj",
+      "projectName": "Questao1",
+      "projectPath": "C:\\Users\\elfreita\\OneDrive - Capgemini\\Desktop\\TesteC#\\Questao1\\Questao1.csproj",
+      "packagesPath": "C:\\Users\\elfreita\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\elfreita\\OneDrive - Capgemini\\Desktop\\TesteC#\\Questao1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\elfreita\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net60"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net60": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net60": {}
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}
